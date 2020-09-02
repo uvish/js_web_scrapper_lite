@@ -1,4 +1,4 @@
-//Script to copy Names ,phone numbers and adresses off of a single page web page and download it in form of txt file.
+//Script to copy Names ,phone numbers and adresses off of a single page and download it in form of txt file.
 
 //div element class names for data items
 nameClass='name';
